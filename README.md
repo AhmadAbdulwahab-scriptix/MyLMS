@@ -40,7 +40,6 @@ npm install mongoose
 
 ### 3. environment variables
 PORT=8080
-MONGO_URI=mongodb://ahmad0110:ahmad12166@ac-6sozh3m-shard-00-00.klqobtt.mongodb.net:27017,ac-6sozh3m-shard-00-01.klqobtt.mongodb.net:27017,ac-6sozh3m-shard-00-02.klqobtt.mongodb.net:27017/MyLMS?ssl=true&replicaSet=atlas-gqpuvk-shard-0&authSource=admin
 ACCESS_tOKEN=496062d0f8e773c306ddac3bd6b9fbb3c9de4ceda6fecacc470bc5545dc616b69a4df4da174d558e05cac0e349522b02c3d77061857c415a77b8f6f31c423134
 REFRESH_TOKEN=2485410e03abf24529e42cc156106893b4c391d8cacec6124cd82e7addf1e060907c4a1de5f451873b9288b04a1a9aac374d52afe3c73beb2279e8ee882c4e1c
 
